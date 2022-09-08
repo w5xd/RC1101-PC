@@ -1,6 +1,4 @@
 .vs
-*/.vs
-*/Debug
-*/Release
-bin
-obj
+*~
+Win32
+x64
